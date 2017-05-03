@@ -1,0 +1,49 @@
+i.fa-info.tooltip {
+    position: relative;
+    float: right;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border: 1px solid #3498db;
+    border-radius: 3px;
+    text-align: center;
+}
+div#make_your_offer {
+  text-align: center;
+}
+div#make_your_offer h1 {
+  border-bottom: 1px solid #eaeaea;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+div#make_your_offer .best_offer {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
+div#make_your_offer .user_offer a {
+  font-weight: bold;
+  color: #000;
+}
+div#make_your_offer .user_offer a:hover {
+  text-decoration: none;
+  color: #555;
+}
+div#make_your_offer .no_offer {
+  font-weight: bold;
+  margin-bottom: 10px;
+}   
+.control_offer form {
+  display: inline-block;
+}
+#myo_submit button.offer {
+  margin-top: 0 !important;
+  padding: 2px 5px;
+}
+#make_your_offer form input, #make_your_offer form button {
+  width: auto;
+  margin: 10px 5px;
+  float: left;
+}
+.myoForm button {
+    padding-right: 20px;
+}

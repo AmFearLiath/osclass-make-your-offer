@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Make your offer\n"
+"POT-Creation-Date: 2016-11-06 21:03+0100\n"
+"PO-Revision-Date: 2016-11-06 21:05+0100\n"
+"Last-Translator: \n"
+"Language-Team: Liath <amfearliath@gmx.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/config.php:11 admin/config.php:15
+msgid "<strong>All Settings saved.</strong> Your plugin ist now configured"
+msgstr ""
+"<strong>Einstellungen gespeichert.</strong> Das Plugin ist jetzt kofiguriert"
+
+#: admin/config.php:20 admin/config.php:24
+msgid ""
+"<strong>Error.</strong> Your settings can not be saved, please try again"
+msgstr ""
+"<strong>Fehler</strong> Die Einstellungen konnten nicht gespeichert werden, "
+"bitte versuche es erneut"
+
+#: admin/config.php:38 classes/myo.class.php:143 classes/myo.class.php:267
+msgid "Make your offer"
+msgstr "Angebot abgeben"
+
+#: admin/config.php:39
+msgid "This plugin allows the user, to make an offer on ads"
+msgstr "Dieses Plugin erlaubt Benutzern ein Angebot zu Inseraten abzugeben."
+
+#: admin/config.php:43
+msgid "Offer box"
+msgstr "Angebote Box"
+
+#: admin/config.php:44
+msgid ""
+"To display the Offer box, place this code anywhere you want (e.g. in item."
+"php or item-sidebar.php of your theme)"
+msgstr ""
+"Um die Angebotsbox anzuzeigen, füge folgenden Code an beliebiger Stelle in "
+"Deinem Theme ein (z.B. item.php oder item-sidebar.php)"
+
+#: admin/config.php:50
+msgid "Checkbox on item post/edit"
+msgstr "Checkbox auf der Inserate erstellen/bearbeiten Seite"
+
+#: admin/config.php:51
+msgid ""
+"To display a checkbox, where seller can activate the offer box, place the "
+"code below in item-post.php"
+msgstr ""
+"Um eine Checkbox anzuzeigen, wo Inserenten die Angebotebox aktivieren "
+"können, füge folgenden Code in die item-post.php ein."
+
+#: admin/config.php:52
+msgid "true: show the title; false: show checkbox without title"
+msgstr "true: Titel wird angezeigt; false: Zeigt die Checkbox ohne Titel"
+
+#: admin/config.php:55
+msgid "or"
+msgstr "oder"
+
+#: admin/config.php:59
+msgid ""
+"<strong>Show Checkbox</strong> This option shows an checkbox on the end of "
+"the form on item post/edit page"
+msgstr ""
+"<strong>Zeige Checkbox</strong> Diese Option aktiviert eine Checkbox am Ende "
+"der Inserate erstellen/bearbeiten Seite"
+
+#: admin/config.php:63 classes/myo.class.php:254
+msgid "Save"
+msgstr "Speichern"
+
+#: classes/myo.class.php:146
+msgid "User can make an alternate offer"
+msgstr "Benutzer können ein alternatives Angebot machen."
+
+#: classes/myo.class.php:157
+#, php-format
+msgid "Offer by %s"
+msgstr "Angebot von %s"
+
+#: classes/myo.class.php:159
+msgid "Last offer"
+msgstr "Letztes Angebot"
+
+#: classes/myo.class.php:179
+msgid "Current offer"
+msgstr "Aktuelles Angebot"
+
+#: classes/myo.class.php:186 classes/myo.class.php:284
+msgid "Your offer"
+msgstr "Ihr Angebot"
+
+#: classes/myo.class.php:188 classes/myo.class.php:324
+msgid "From"
+msgstr "Von"
+
+#: classes/myo.class.php:192
+msgid "You can't make an offer on this ad anymore."
+msgstr "Sie können zu diesem Inserat kein Angebot mehr abgeben."
+
+#: classes/myo.class.php:198 classes/myo.class.php:202
+msgid "No offers yet."
+msgstr "Noch keine  Angebote."
+
+#: classes/myo.class.php:205 classes/myo.class.php:289
+msgid "Login to make an offer."
+msgstr "Anmelden um ein Angebot abzugeben"
+
+#: classes/myo.class.php:214
+msgid "Activate offers"
+msgstr "Angebote aktivieren"
+
+#: classes/myo.class.php:218
+msgid "Deactivate offers"
+msgstr "Angebote deaktivieren"
+
+#: classes/myo.class.php:223
+msgid "Notify me"
+msgstr "Benachrichtige mich"
+
+#: classes/myo.class.php:227
+msgid "No notify"
+msgstr "Nicht benachrichtigen"
+
+#: classes/myo.class.php:252
+msgid "Set minimum offer value"
+msgstr "Minimumgebot festlegen"
+
+#: classes/myo.class.php:258
+msgid "Set the minimum price..."
+msgstr "Minimumpreis setzen..."
+
+#: classes/myo.class.php:319
+msgid "{PAGE_TITLE} - New offer"
+msgstr "{PAGE_TITLE} - Neues Angebot"
+
+#: classes/myo.class.php:321
+msgid "Hello {TO_NAME},"
+msgstr "Hallo {TO_NAME},"
+
+#: classes/myo.class.php:322
+msgid "There is a new offer for you"
+msgstr "Es ist ein neues Angebot eingegangen"
+
+#: classes/myo.class.php:325
+msgid "Value"
+msgstr "Angebot"
+
+#: classes/myo.class.php:326
+msgid "Best regards"
+msgstr "Mit freundlichen Grüßen"
+
+#~ msgid ""
+#~ "To display the Offer box, place this code anywhere you want (e.g. in "
+#~ "items.php or items-sidebar.php of your theme)"
+#~ msgstr ""
+#~ "Um die Angebotsbox anzuzeigen, füge folgenden Code an beliebiger Stelle "
+#~ "in Deinem Theme ein (z.B. items.php oder items-sidebar.php)"
+
+#~ msgid ""
+#~ "To display a checkbox, where seller can activate the offer box, place the "
+#~ "code below in items-post.php"
+#~ msgstr ""
+#~ "Um eine Checkbox anzuzeigen, wo Inserenten die Angebotebox aktivieren "
+#~ "können, füge folgenden Code in die items-post.php ein."
+
+#~ msgid "No offers yet. Be the first one."
+#~ msgstr "Noch keine Angebote, seien Sie der erste."
+
+#~ msgid "Installation"
+#~ msgstr "Installation"
+
+#~ msgid "You can't make an offer on this ad."
+#~ msgstr "Sie können zu diesem Inserat keine Angebote abgeben."
+
+#~ msgid "Activate"
+#~ msgstr "Aktivieren"
+
+#~ msgid "Deactivate"
+#~ msgstr "Deaktivieren"
